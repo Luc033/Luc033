@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Luc033/Luc033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student passionate about **Software Development** and always looking to learn more.
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me:
+- 💻 I'm currently studying **HTML5, CSS3, JavaScript, PHP, SQL, Java, Spring Framework, and Python**.
+- 🎓 Pursuing a degree in **Software Development**.
+- 🚀 I love to build projects that challenge my skills and help me grow.
+- 🌱 Constantly improving my knowledge and excited about working on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+- **Languages**: HTML5, CSS3, JavaScript, PHP, SQL, Java, Python
+- **Frameworks**: Spring Framework, BootStrap
+- **Version Control**: Git & GitHub
+
+### 📫 How to reach me:
+- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lucas-melo-dev/) or via email at youremail@example.com.
+
+Thanks for visiting my profile! 🙌
