@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a student passionate about **Software Developm
 
 ### 🔧 Technologies & Tools:
 - **Languages**: HTML5, CSS3, JavaScript, PHP, SQL, Java, Python
-- **Frameworks**: Spring Framework, BootStrap
+- **Frameworks**: Spring Boot, BootStrap
 - **Version Control**: Git & GitHub
 
 ### 📫 How to reach me:
