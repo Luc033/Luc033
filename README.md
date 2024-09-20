@@ -14,6 +14,6 @@ Welcome to my GitHub profile! I'm a student passionate about **Software Developm
 - **Version Control**: Git & GitHub
 
 ### 📫 How to reach me:
-- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lucas-melo-dev/) or via email at youremail@example.com.
+- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lucas-melo-dev/) or via email at lucasrm33.contato@gmail.com.
 
 Thanks for visiting my profile! 🙌
