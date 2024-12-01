@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student passionate about **Software Development** and always looking to learn more.
 
 ### 🧑‍💻 About Me:
-- 💻 I'm currently studying **HTML5, CSS3, JavaScript, PHP, SQL, Java, Spring Framework, and Python**.
+- 💻 I'm currently studying **HTML5, CSS3, JavaScript, SQL, Java, Spring Framework, and Python**.
 - 🎓 Pursuing a degree in **Software Development**.
 - 🚀 I love to build projects that challenge my skills and help me grow.
 - 🌱 Constantly improving my knowledge and excited about working on innovative projects.
